@@ -6,6 +6,16 @@ SupportFlow combines ticket management, search and filtering, SLA tracking, anal
 
 ## ✨ Features
 
+🔐 Admin Authentication
+Admin-only login
+JWT-based authentication
+Password hashing with bcrypt
+Protected ticket, dashboard, and AI APIs
+Token-based authorization
+Automatic logout on expired/invalid token
+Environment-based admin credentials
+Role validation for admin access
+
 ### Core Ticket Management
 
 * Create support tickets with customer information
